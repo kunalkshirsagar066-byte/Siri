@@ -1,0 +1,11 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orb_pink">#FF3CA5</color>
+    <color name="orb_purple">#7B2FF7</color>
+    <color name="orb_blue">#2F9DF7</color>
+    <color name="orb_cyan">#2FF7E0</color>
+    <color name="orb_green">#3CFF7A</color>
+    <color name="orb_orange">#FF8C2F</color>
+    <color name="background_dark">#0B0B12</color>
+</resources>
